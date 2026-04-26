@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="zal2wbk6H8S9o4jT6CHm">
+    <mxGraphModel dx="1030" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dktrJ2uh1t6uVtOwMeCl-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Модуль интеллектуальных рекомендаций" vertex="1">
+          <mxGeometry height="60" width="240" x="710" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="dktrJ2uh1t6uVtOwMeCl-54" edge="1" parent="1" source="dktrJ2uh1t6uVtOwMeCl-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dktrJ2uh1t6uVtOwMeCl-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dktrJ2uh1t6uVtOwMeCl-55" edge="1" parent="1" source="dktrJ2uh1t6uVtOwMeCl-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dktrJ2uh1t6uVtOwMeCl-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dktrJ2uh1t6uVtOwMeCl-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1. Сбор и профилирование" vertex="1">
+          <mxGeometry height="60" width="180" x="430" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="dktrJ2uh1t6uVtOwMeCl-56" edge="1" parent="1" source="dktrJ2uh1t6uVtOwMeCl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dktrJ2uh1t6uVtOwMeCl-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dktrJ2uh1t6uVtOwMeCl-57" edge="1" parent="1" source="dktrJ2uh1t6uVtOwMeCl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dktrJ2uh1t6uVtOwMeCl-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dktrJ2uh1t6uVtOwMeCl-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="2. Анализ аудио-контента" vertex="1">
+          <mxGeometry height="60" width="180" x="640" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="dktrJ2uh1t6uVtOwMeCl-58" edge="1" parent="1" source="dktrJ2uh1t6uVtOwMeCl-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dktrJ2uh1t6uVtOwMeCl-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dktrJ2uh1t6uVtOwMeCl-59" edge="1" parent="1" source="dktrJ2uh1t6uVtOwMeCl-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dktrJ2uh1t6uVtOwMeCl-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dktrJ2uh1t6uVtOwMeCl-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="3. Генерация кандидатов" vertex="1">
+          <mxGeometry height="60" width="180" x="850" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="dktrJ2uh1t6uVtOwMeCl-61" edge="1" parent="1" source="dktrJ2uh1t6uVtOwMeCl-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dktrJ2uh1t6uVtOwMeCl-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dktrJ2uh1t6uVtOwMeCl-62" edge="1" parent="1" source="dktrJ2uh1t6uVtOwMeCl-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dktrJ2uh1t6uVtOwMeCl-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dktrJ2uh1t6uVtOwMeCl-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="4. Финальное ранжирование" vertex="1">
+          <mxGeometry height="60" width="180" x="1060" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="dktrJ2uh1t6uVtOwMeCl-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Анализ истории прослушиваний" vertex="1">
+          <mxGeometry height="60" width="150" x="460" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="dktrJ2uh1t6uVtOwMeCl-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Сбор предпочтений (лайки/скипы)" vertex="1">
+          <mxGeometry height="60" width="150" x="460" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="dktrJ2uh1t6uVtOwMeCl-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Обработка метаданных" vertex="1">
+          <mxGeometry height="60" width="150" x="670" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="dktrJ2uh1t6uVtOwMeCl-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Извлечение аудио-признаков" vertex="1">
+          <mxGeometry height="60" width="150" x="670" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="dktrJ2uh1t6uVtOwMeCl-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Коллаборативная фильтрация" vertex="1">
+          <mxGeometry height="60" width="150" x="880" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="dktrJ2uh1t6uVtOwMeCl-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Контентная фильтрация" vertex="1">
+          <mxGeometry height="60" width="150" x="880" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="dktrJ2uh1t6uVtOwMeCl-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Веса релевантности" vertex="1">
+          <mxGeometry height="60" width="150" x="1090" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="dktrJ2uh1t6uVtOwMeCl-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Оценка качества рекомендаций" vertex="1">
+          <mxGeometry height="60" width="150" x="1090" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="dktrJ2uh1t6uVtOwMeCl-31" edge="1" parent="1" source="dktrJ2uh1t6uVtOwMeCl-18" target="dktrJ2uh1t6uVtOwMeCl-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dktrJ2uh1t6uVtOwMeCl-32" edge="1" parent="1" source="dktrJ2uh1t6uVtOwMeCl-18" target="dktrJ2uh1t6uVtOwMeCl-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dktrJ2uh1t6uVtOwMeCl-33" edge="1" parent="1" source="dktrJ2uh1t6uVtOwMeCl-18" target="dktrJ2uh1t6uVtOwMeCl-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dktrJ2uh1t6uVtOwMeCl-34" edge="1" parent="1" source="dktrJ2uh1t6uVtOwMeCl-18" target="dktrJ2uh1t6uVtOwMeCl-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
